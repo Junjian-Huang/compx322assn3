@@ -1,0 +1,9 @@
+/* set the map size ............ */
+#mapid { height: 400px; }
+
+
+/* set all elements in the middle of html*/
+#wholeContent{
+	width: 650px;
+	margin: 25px auto;
+}
